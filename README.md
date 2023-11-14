@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-👋 Hi, I’m @nabil-harakat
-📫 How to reach me : https://www.linkedin.com/in/harakat-nabil-36b07572/
+- 👋 Hi, I’m @nabil-harakat
+- 📫 How to reach me : https://www.linkedin.com/in/harakat-nabil-36b07572/
 
 
 <!--
